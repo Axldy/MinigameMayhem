@@ -1,6 +1,6 @@
 {
 	"FileVersion": 3,
-	"EngineAssociation": "{2EC2B7BD-498E-BA7F-BE29-E99C5F8F7680}",
+	"EngineAssociation": "{9BBF527C-4EEA-3770-D5C6-6E8FC88C21CA}",
 	"Category": "",
 	"Description": "",
 	"Plugins": [
@@ -8,8 +8,5 @@
 			"Name": "FMODStudio",
 			"Enabled": false
 		}
-	],
-	"TargetPlatforms": [
-		"WindowsNoEditor"
 	]
 }
